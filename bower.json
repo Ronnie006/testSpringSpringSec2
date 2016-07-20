@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "authors": [
+    "ronnie <ronnieang006@gmail.com>"
+  ],
+  "description": "",
+  "keywords": [
+    "app"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/main/resources/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+    "angular-route": "0.2.15"
+    
+  }
+}
